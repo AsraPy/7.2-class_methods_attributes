@@ -1,0 +1,1 @@
+# 7.2-class_methods_attributes
